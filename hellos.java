@@ -42,6 +42,9 @@ class Test {
         System.out.println("or like");
         System.out.println(" I had no gendered way of seeing things");
         System.out.println("its just so happens that i like " + ILOVES);
+        //Update 02 to code - new commit//
+        System.out.println(" I am testing of my author name changed");
+        System.err.println("My name isn't " + fakename);
     }
 }
         
